@@ -4,7 +4,7 @@
 
 public class HelloWorld {
 
-    //this is the main method that does not take in or take out variables to other methods
+    //this is the required main method that does not take in or take out variables to other methods
     public static void main(String[] args) {
         //this outputs in the system to print on the commandline "Hello World"
         //must be "" and not '' in the parenthises
